@@ -40,18 +40,6 @@ I enjoy working across the full stack, solving DSA problems, exploring System De
 
 ## 🚀 Featured Projects
 
-### 🔹 SyncSpace
-
-A collaborative application designed to enable users to work and interact efficiently in a shared digital workspace.
-
-**Tech Stack:** React.js | Node.js | Express.js | MongoDB
-
-**Key Highlights**
-- Full-stack architecture
-- User authentication and authorization
-- Collaborative functionality
-- REST API integration
-- Responsive user interface
 
 ---
 
