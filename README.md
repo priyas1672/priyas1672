@@ -1,16 +1,125 @@
-## Hi there 👋
+**# Hi, I'm Priya 👋
 
-<!--
-**priyas1672/priyas1672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Full-Stack Developer | Open Source Contributor
 
-Here are some ideas to get you started:
+I'm a Software Developer passionate about building scalable, user-focused web applications and learning how real-world software systems are designed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the full stack, solving DSA problems, exploring System Design, and contributing to open-source projects.
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Graduate
+- 💻 Building full-stack applications using the MERN stack
+- ☕ Solving Data Structures & Algorithms problems in Java
+- 🌱 Currently learning System Design, DevOps, and Open Source
+- 🤝 Actively contributing to open-source projects
+- 🚀 Interested in Software Development and Full-Stack Engineering opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`Java` `JavaScript` `HTML` `CSS`
+
+### Frontend
+`React.js` `Tailwind CSS`
+
+### Backend
+`Node.js` `Express.js`
+
+### Database
+`MongoDB`
+
+### Tools & Technologies
+`Git` `GitHub` `Docker` `Postman` `VS Code`
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 SyncSpace
+
+A collaborative application designed to enable users to work and interact efficiently in a shared digital workspace.
+
+**Tech Stack:** React.js | Node.js | Express.js | MongoDB
+
+**Key Highlights**
+- Full-stack architecture
+- User authentication and authorization
+- Collaborative functionality
+- REST API integration
+- Responsive user interface
+
+---
+
+### 🔹 SocialSync
+
+A full-stack social platform focused on connecting users and enabling interactive social experiences.
+
+**Tech Stack:** React.js | Node.js | Express.js | MongoDB
+
+**Key Highlights**
+- User authentication
+- Social interaction features
+- RESTful backend APIs
+- Database-driven application
+- Responsive frontend
+
+---
+
+### 🔹 Imagify
+
+An image-focused web application that provides an interactive and user-friendly image experience.
+
+**Tech Stack:** React.js | JavaScript | Web APIs
+
+**Key Highlights**
+- Modern responsive interface
+- Image-related functionality
+- API integration
+- Clean and reusable frontend components
+
+---
+
+## 🌱 Open Source
+
+I'm actively learning and contributing to open-source projects.
+
+My contribution workflow includes:
+
+`Find Issue → Fork → Clone → Create Branch → Implement → Test → Commit → Push → Pull Request`
+
+I'm currently focusing on:
+
+- Documentation improvements
+- Bug fixes
+- UI improvements
+- JavaScript and React issues
+- Beginner-friendly feature development
+
+---
+
+## 📚 Currently Learning
+
+- System Design (HLD & LLD)
+- DevOps & Docker
+- Advanced Backend Development
+- Data Structures & Algorithms
+- Open Source Contribution
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/priya-singh-268b57306/
+
+📧 Email: priasingh127@gmail.com
+
+---
+
+### 💡 “Build. Learn. Contribute. Improve.”**
+
+
